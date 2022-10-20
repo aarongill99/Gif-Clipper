@@ -1,0 +1,2484 @@
+1
+00:00:18,185 --> 00:00:20,395
+Ooh, fuck. Yeah, it doesn't matter.
+
+2
+00:00:20,479 --> 00:00:22,231
+Whoa. You okay there, Richard?
+
+3
+00:00:22,356 --> 00:00:24,191
+Uh... yeah, I'm fine.
+
+4
+00:00:24,274 --> 00:00:25,984
+Sorry, I can't really throw it any slower.
+
+5
+00:00:26,068 --> 00:00:27,319
+Give it another cut, Richard.
+
+6
+00:00:27,402 --> 00:00:29,154
+No, I'm fine. I don't want to.
+
+7
+00:00:29,238 --> 00:00:32,115
+Maybe someone else wants to. Who's next?
+
+8
+00:00:32,199 --> 00:00:34,868
+If someone has to go, I'll go,
+but it seems very frightening.
+
+9
+00:00:34,952 --> 00:00:36,662
+You sure? You got us for the whole hour.
+
+10
+00:00:36,745 --> 00:00:40,123
+- Anyone?
+- Would it hurt your feelings if no one went?
+
+11
+00:00:42,709 --> 00:00:44,062
+Man: Ladies and gentlemen,
+
+12
+00:00:44,086 --> 00:00:47,047
+welcome to the annual
+stern Taylor fall classic.
+
+13
+00:00:47,130 --> 00:00:50,008
+I 'd like to start by making a toast
+to our very special guest tonight,
+
+14
+00:00:50,092 --> 00:00:52,719
+Richard Hendricks.
+
+15
+00:00:52,803 --> 00:00:57,558
+Richard, after your perfect game
+at techcrunch disrupt a few weeks ago,
+
+16
+00:00:57,641 --> 00:00:59,393
+we fell in love with you and your tech.
+
+17
+00:00:59,518 --> 00:01:01,645
+Look, we know everyone
+in the valley is after you,
+
+18
+00:01:02,271 --> 00:01:06,233
+and we know that you're probably
+going to go with Peter Gregory,
+
+19
+00:01:06,316 --> 00:01:08,860
+but we'd love to have you
+come play on our team.
+
+20
+00:01:08,944 --> 00:01:10,946
+Let stern Taylor capital fund in
+
+21
+00:01:11,029 --> 00:01:14,324
+on your series a financing,
+because together, Richard,
+
+22
+00:01:14,408 --> 00:01:15,867
+we 'd be
+
+23
+00:01:15,951 --> 00:01:19,162
+a home run!
+
+24
+00:01:22,124 --> 00:01:23,834
+- Oh, right.
+- What do you say, Richard?
+
+25
+00:01:26,587 --> 00:01:28,130
+I'll do what I can.
+
+26
+00:01:29,756 --> 00:01:31,508
+All right. Have fun, everybody.
+
+27
+00:01:34,511 --> 00:01:35,512
+I don't know, man.
+
+28
+00:01:35,596 --> 00:01:38,116
+It's starting to feel weird
+letting all these firms suck up to us,
+
+29
+00:01:38,140 --> 00:01:39,933
+even though we're not gonna
+take their money.
+
+30
+00:01:40,017 --> 00:01:43,604
+Richard, Peter Gregory hasn't officially
+given us the term sheet yet.
+
+31
+00:01:43,687 --> 00:01:45,772
+Yes, but he will tomorrow
+when he gets back.
+
+32
+00:01:45,856 --> 00:01:49,776
+If you can't enjoy this many people
+kissing our ass at this level,
+
+33
+00:01:49,860 --> 00:01:50,986
+then I feel sorry for you.
+
+34
+00:01:51,862 --> 00:01:54,531
+Would you just relax
+and take it in for a second?
+
+35
+00:01:54,615 --> 00:01:58,201
+I mean, we are getting our dicks sucked
+at the at&t park.
+
+36
+00:01:59,578 --> 00:02:02,706
+We're standing on the field of
+the world series champions.
+
+37
+00:02:03,707 --> 00:02:04,791
+It's totally lost on me.
+
+38
+00:02:04,875 --> 00:02:06,543
+Yeah, I don't give a shit, either.
+
+39
+00:02:06,627 --> 00:02:09,463
+Hey! I'm Nicole Stein.
+
+40
+00:02:09,546 --> 00:02:11,423
+I lead the growth team at stern Taylor.
+
+41
+00:02:11,506 --> 00:02:14,593
+- Oh. I'm dinesh.
+- I'm gilfoyle.
+
+42
+00:02:14,676 --> 00:02:17,346
+I love it. So what do
+you two do at pied Piper?
+
+43
+00:02:17,429 --> 00:02:19,139
+I'm the CTO.
+
+44
+00:02:19,222 --> 00:02:21,725
+Ah, he's joking. I'm the CTO.
+
+45
+00:02:21,808 --> 00:02:23,310
+Fuck you, I'm joking.
+
+46
+00:02:23,393 --> 00:02:25,604
+Okay, how could you be
+the chief technology officer?
+
+47
+00:02:25,687 --> 00:02:30,067
+I get it. You hear the word "chief,"
+and you think "Indian chief."
+
+48
+00:02:30,150 --> 00:02:31,544
+But you're the other kind of Indian.
+
+49
+00:02:31,568 --> 00:02:34,071
+Okay. One, fuck you. I'm Pakistani.
+
+50
+00:02:34,154 --> 00:02:36,531
+And two, how could you be CTO of anything?
+
+51
+00:02:36,615 --> 00:02:37,895
+You have to be able to organize,
+
+52
+00:02:37,949 --> 00:02:39,552
+you have to be able to delegate,
+you have to be...
+
+53
+00:02:39,576 --> 00:02:41,995
+I delegate you to go get me a fucking beer
+
+54
+00:02:42,079 --> 00:02:43,664
+while I talk to Nicole.
+
+55
+00:02:44,331 --> 00:02:47,250
+George silver,
+operating partner at stern Taylor.
+
+56
+00:02:47,959 --> 00:02:50,587
+So, what do you do at pied Piper?
+
+57
+00:02:51,588 --> 00:02:53,256
+He's the CTO.
+
+58
+00:02:57,260 --> 00:02:58,428
+Erlich: That's drew Houston.
+
+59
+00:02:58,512 --> 00:03:00,931
+We've been circling each other
+for the last 20 minutes.
+
+60
+00:03:01,431 --> 00:03:02,474
+Ooh!
+
+61
+00:03:02,557 --> 00:03:03,684
+The winklevoss twins.
+
+62
+00:03:03,767 --> 00:03:06,812
+Look at them. They're like
+two genetically enhanced Ken dolls.
+
+63
+00:03:06,895 --> 00:03:08,730
+Do you know
+how much bitcoin they're worth?
+
+64
+00:03:09,231 --> 00:03:10,774
+Oh, shit, they're splitting up.
+
+65
+00:03:11,817 --> 00:03:13,485
+Cameron's the left dominant one, right?
+
+66
+00:03:13,568 --> 00:03:15,880
+- I can't tell them apart.
+- I'm gonna come at him from the right side,
+
+67
+00:03:15,904 --> 00:03:18,782
+try and herd them back together
+without spooking them.
+
+68
+00:03:19,074 --> 00:03:20,325
+Watch this.
+
+69
+00:03:20,409 --> 00:03:22,369
+Cameron! Cameron!
+
+70
+00:03:22,828 --> 00:03:24,871
+- Okay.
+- Javeed: Well, well, well,
+
+71
+00:03:24,955 --> 00:03:27,165
+look who's the big swinging dick.
+
+72
+00:03:27,249 --> 00:03:30,377
+Hey, javeed, everything okay at goolybib?
+
+73
+00:03:30,460 --> 00:03:32,838
+You gotta ask them. They canned me.
+
+74
+00:03:32,921 --> 00:03:34,798
+- What?
+- Yeah.
+
+75
+00:03:34,881 --> 00:03:37,551
+Our investors got spooked
+by a possible down round,
+
+76
+00:03:37,634 --> 00:03:39,594
+so they shoved
+an acquisition down my throat.
+
+77
+00:03:39,678 --> 00:03:42,889
+Yeah, an acquisition
+of $200 million, right?
+
+78
+00:03:42,973 --> 00:03:46,977
+Yeah, they all made out.
+I had a reverse vest with no triggers,
+
+79
+00:03:47,310 --> 00:03:49,688
+then I lost all my shares
+when they fired me.
+
+80
+00:03:50,647 --> 00:03:52,733
+I blew my whole signing bonus
+renting that house.
+
+81
+00:03:52,816 --> 00:03:54,985
+I'm looking into suing 'em.
+
+82
+00:03:55,652 --> 00:03:56,945
+Jeez.
+
+83
+00:03:57,028 --> 00:03:58,989
+Look, all I can say is,
+
+84
+00:03:59,072 --> 00:04:01,032
+don't get fucked, all right?
+
+85
+00:04:01,116 --> 00:04:04,453
+You take money from the wrong dudes,
+and you'll get smoked as bad as I did.
+
+86
+00:04:05,162 --> 00:04:06,455
+Just be careful.
+
+87
+00:04:06,538 --> 00:04:08,165
+Everyone is watching you now.
+
+88
+00:04:08,248 --> 00:04:10,834
+Yeah. Totally. I know. Thanks, javeed.
+
+89
+00:04:10,917 --> 00:04:15,297
+No. I mean, they're watching you right now.
+
+90
+00:04:18,049 --> 00:04:19,843
+Yeah.
+
+91
+00:04:19,926 --> 00:04:21,636
+Damn it. Where is that camera?
+
+92
+00:04:33,148 --> 00:04:34,876
+Dinesh: Ican't believe
+how many gifts we're getting.
+
+93
+00:04:34,900 --> 00:04:38,236
+Gilfoyle: Gifts I'm getting.
+That oculus rig is addressed to the CTO.
+
+94
+00:04:38,320 --> 00:04:39,946
+Dinesh: No, I'm the CTO.
+
+95
+00:04:40,030 --> 00:04:43,074
+As your superior,
+I order you to give me that oculus.
+
+96
+00:04:43,700 --> 00:04:45,911
+You can't make me do stuff.
+You're not the boss of me.
+
+97
+00:04:45,994 --> 00:04:47,746
+- Actually, I am the boss of you.
+- Okay.
+
+98
+00:04:47,829 --> 00:04:49,098
+Gilfoyle: Richard, tell him I'm CTO.
+
+99
+00:04:49,122 --> 00:04:51,017
+Dinesh: No, you already told that fat guy
+that I'm the CTO.
+
+100
+00:04:51,041 --> 00:04:52,709
+Stop, stop, stop. Please stop.
+
+101
+00:04:53,710 --> 00:04:55,590
+I have a ton of work to do.
+You have work to do.
+
+102
+00:04:55,670 --> 00:04:57,714
+Maybe let's do the work instead of that.
+
+103
+00:04:59,257 --> 00:05:01,551
+Jared, we were supposed
+to get a term sheet today.
+
+104
+00:05:01,635 --> 00:05:03,875
+Have we heard from Peter Gregory?
+
+105
+00:05:04,054 --> 00:05:05,931
+Peter Gregory is dead.
+
+106
+00:05:06,723 --> 00:05:07,724
+What?
+
+107
+00:05:15,607 --> 00:05:17,400
+Holy shit.
+
+108
+00:05:25,951 --> 00:05:28,119
+Monica: He was the smartest,
+
+109
+00:05:28,203 --> 00:05:30,997
+shrewdest,
+
+110
+00:05:31,081 --> 00:05:33,542
+Strangest man I've ever known.
+
+111
+00:05:35,544 --> 00:05:37,671
+I can't believe that he's gone.
+
+112
+00:05:38,046 --> 00:05:41,258
+Can I ask what happened?
+
+113
+00:05:41,341 --> 00:05:43,134
+Yeah. Um...
+
+114
+00:05:43,218 --> 00:05:46,054
+He was in the serengeti on safari...
+
+115
+00:05:46,137 --> 00:05:48,682
+- Ah.
+- And he had just gone into his tent
+
+116
+00:05:48,765 --> 00:05:51,726
+when a hippo wandered into the camp.
+
+117
+00:05:52,185 --> 00:05:53,562
+Oh, wow.
+
+118
+00:05:54,604 --> 00:05:55,939
+He was attacked by a hippo?
+
+119
+00:05:56,022 --> 00:05:57,190
+No. No.
+
+120
+00:05:57,274 --> 00:06:00,902
+I guess the hippo started to charge
+
+121
+00:06:00,986 --> 00:06:03,446
+when the guide grabbed his rifle
+and shot at it,
+
+122
+00:06:05,115 --> 00:06:08,201
+but his aim was off, and...
+
+123
+00:06:09,995 --> 00:06:12,747
+And he shot Peter Gregory by accident?
+
+124
+00:06:12,831 --> 00:06:15,292
+- Yeah.
+- No, he missed...
+
+125
+00:06:16,084 --> 00:06:19,421
+But I guess the sound of the gun
+startled Peter,
+
+126
+00:06:19,504 --> 00:06:23,008
+who ran out of his tent and...
+
+127
+00:06:25,176 --> 00:06:26,887
+Ran right into the hippo?
+
+128
+00:06:26,970 --> 00:06:29,890
+No, the hippo was
+also startled by the noise
+
+129
+00:06:30,473 --> 00:06:34,853
+and had run off prior
+to Peter exiting his tent.
+
+130
+00:06:38,899 --> 00:06:40,650
+So, what happened to Peter?
+
+131
+00:06:41,276 --> 00:06:45,196
+He hadn't run in a long time,
+
+132
+00:06:45,989 --> 00:06:49,993
+maybe ever, and you know, hejust...
+
+133
+00:06:53,788 --> 00:06:54,831
+That was it.
+
+134
+00:07:01,296 --> 00:07:04,841
+That is so very strange.
+
+135
+00:07:04,925 --> 00:07:07,677
+- Very sad and tragic. Wow.
+- Very sad and strange.
+
+136
+00:07:09,346 --> 00:07:10,889
+See you.
+
+137
+00:07:12,432 --> 00:07:13,475
+Man, that is so weird.
+
+138
+00:07:13,558 --> 00:07:16,853
+I mean, one minute Peter Gregory is here,
+the next, he'sjust gone.
+
+139
+00:07:16,937 --> 00:07:18,104
+Erlich: Jared, it's erlich.
+
+140
+00:07:18,188 --> 00:07:21,274
+I need you to set up
+all the other vc meetings, asap.
+
+141
+00:07:21,358 --> 00:07:23,026
+Line 'em up nuts to butts.
+
+142
+00:07:23,109 --> 00:07:25,838
+Erlich, what are you doing? Monica
+just said they're still gonna fund us.
+
+143
+00:07:25,862 --> 00:07:26,947
+We should just sit tight.
+
+144
+00:07:27,030 --> 00:07:30,951
+Look, I loved Peter Gregory
+maybe even more than he loved me,
+
+145
+00:07:31,034 --> 00:07:32,345
+but there's something
+you need to know here,
+
+146
+00:07:32,369 --> 00:07:35,372
+something that Monica
+isn't exactly volunteering up,
+
+147
+00:07:35,455 --> 00:07:38,083
+and that's that all of these one-man firms
+have a key-man clause.
+
+148
+00:07:38,166 --> 00:07:39,626
+- Do you know what that means?
+- No.
+
+149
+00:07:39,709 --> 00:07:42,212
+It means that now that
+Peter Gregory is gone,
+
+150
+00:07:42,295 --> 00:07:43,672
+all the raviga investors
+
+151
+00:07:43,755 --> 00:07:46,591
+have the contractual right
+to cash out and walk away,
+
+152
+00:07:46,675 --> 00:07:50,011
+which means that by the end of the day,
+there may not be a raviga.
+
+153
+00:07:50,095 --> 00:07:52,639
+- Seriously?
+- Yes, so we have to prepare for that.
+
+154
+00:07:52,722 --> 00:07:55,767
+Now, I know that it makes me
+sound like a terrible person,
+
+155
+00:07:55,850 --> 00:07:57,018
+but we have a company to run.
+
+156
+00:07:57,102 --> 00:07:59,372
+And do you know who
+the first person to agree with me would be?
+
+157
+00:07:59,396 --> 00:08:00,730
+Peter Gregory.
+
+158
+00:08:10,865 --> 00:08:13,368
+And that is the very first spot
+in our new campaign
+
+159
+00:08:13,451 --> 00:08:15,412
+heralding the upcoming release of nucleus
+
+160
+00:08:15,495 --> 00:08:17,163
+this January at ces.
+
+161
+00:08:17,747 --> 00:08:20,166
+- Any questions?
+- I have a question.
+
+162
+00:08:20,250 --> 00:08:21,251
+That was horrible.
+
+163
+00:08:22,043 --> 00:08:25,505
+I just got humiliated by a fucking
+teenager at techcrunch disrupt,
+
+164
+00:08:25,588 --> 00:08:28,341
+and you give me this tampon ad?
+
+165
+00:08:28,425 --> 00:08:30,427
+A girl with diabetes on a swing?
+
+166
+00:08:30,510 --> 00:08:32,429
+- I think she has cancer.
+- Man: Yeah.
+
+167
+00:08:32,512 --> 00:08:34,180
+At least that's how I read it.
+
+168
+00:08:34,264 --> 00:08:35,866
+I don't care what kind of disease she had!
+
+169
+00:08:35,890 --> 00:08:40,020
+All I care about is that
+nucleus is better than pied Piper.
+
+170
+00:08:40,103 --> 00:08:41,771
+Hendricks just left us all in the dust.
+
+171
+00:08:42,439 --> 00:08:44,107
+If we get this wrong,
+
+172
+00:08:44,190 --> 00:08:46,609
+we could blow
+the business opportunity of a lifetime!
+
+173
+00:08:46,693 --> 00:08:49,195
+Data creation is exploding.
+
+174
+00:08:49,279 --> 00:08:54,159
+With all the selfies and useless files
+people refuse to delete on the cloud,
+
+175
+00:08:54,659 --> 00:08:59,873
+92% of the world's data
+was created in the last two years alone.
+
+176
+00:08:59,956 --> 00:09:01,041
+At the current rate,
+
+177
+00:09:01,124 --> 00:09:05,170
+the world's data storage capacity
+will be overtaken by next spring.
+
+178
+00:09:05,253 --> 00:09:07,630
+It will be nothing short of a catastrophe.
+
+179
+00:09:07,714 --> 00:09:11,760
+Data shortages, data rationing,
+data black markets.
+
+180
+00:09:11,843 --> 00:09:15,388
+Someone's compression
+will save the world from data-geddon,
+
+181
+00:09:15,472 --> 00:09:19,100
+and it sure as hell better be nucleus
+and not goddamn pied Piper!
+
+182
+00:09:20,810 --> 00:09:22,270
+I don't know about you people,
+
+183
+00:09:22,353 --> 00:09:23,673
+but I don't wanna live in a world
+
+184
+00:09:23,730 --> 00:09:27,817
+where someone else makes the world
+a better place better than we do.
+
+185
+00:09:33,490 --> 00:09:37,410
+"Data-geddon." is he married to that, or...
+
+186
+00:09:37,494 --> 00:09:39,662
+There's just been a
+lot of "geddons" lately.
+
+187
+00:09:39,746 --> 00:09:42,415
+That's true.
+"Snow-mageddon," "car-mageddon."
+
+188
+00:09:42,499 --> 00:09:44,501
+There's that movie armageddon.
+
+189
+00:09:49,631 --> 00:09:51,674
+Laurie, you wanted to see me?
+
+190
+00:09:51,758 --> 00:09:53,861
+Monica, come in, come in.
+I'm sure you've heard by now
+
+191
+00:09:53,885 --> 00:09:55,720
+that I've been named
+our new managing partner.
+
+192
+00:09:55,804 --> 00:09:57,514
+Monica: Yes. Congratulations.
+
+193
+00:09:57,597 --> 00:10:00,767
+Did the limited partners tell you
+how they made their decision?
+
+194
+00:10:01,184 --> 00:10:03,144
+Oh. They looked at the
+portfolio performances
+
+195
+00:10:03,228 --> 00:10:05,539
+of each of the senior partners
+over the last several funds,
+
+196
+00:10:05,563 --> 00:10:08,066
+and my numbers were,
+objectively, the most favorable.
+
+197
+00:10:08,149 --> 00:10:09,776
+Therefore, I was selected.
+
+198
+00:10:09,859 --> 00:10:14,489
+Yeah, it's just managing partner
+is all about meeting with people
+
+199
+00:10:14,572 --> 00:10:16,366
+and interacting with people.
+
+200
+00:10:16,449 --> 00:10:18,329
+You can sit down if you want to.
+Do you want to?
+
+201
+00:10:18,409 --> 00:10:20,036
+- Oh...
+- Or should we stand?
+
+202
+00:10:20,286 --> 00:10:21,955
+Uh... I... whatever...
+
+203
+00:10:22,038 --> 00:10:23,039
+- I'm standing...
+- Okay.
+
+204
+00:10:23,123 --> 00:10:24,290
+But you don't have to.
+
+205
+00:10:24,874 --> 00:10:27,752
+- Okay.
+- Would it make you feel awkward to sit?
+
+206
+00:10:27,836 --> 00:10:29,254
+I'm okay to stand.
+
+207
+00:10:30,630 --> 00:10:33,091
+- Monica...
+- Of course.
+
+208
+00:10:33,424 --> 00:10:35,093
+Peter Gregory is dead.
+
+209
+00:10:36,052 --> 00:10:37,804
+Yes, I know.
+
+210
+00:10:37,887 --> 00:10:42,142
+On a personal note, his death is very sad.
+
+211
+00:10:42,225 --> 00:10:45,061
+But on a professional
+level, it's untenable.
+
+212
+00:10:45,145 --> 00:10:46,345
+I've been reviewing his files.
+
+213
+00:10:46,396 --> 00:10:48,898
+He was pursuing a number
+of extremely dubious positions.
+
+214
+00:10:48,982 --> 00:10:53,653
+Are you aware that we own
+a $30 million ostrich farm in Morocco,
+
+215
+00:10:53,736 --> 00:10:56,656
+or that we are the majority stakeholders
+
+216
+00:10:56,906 --> 00:10:59,409
+in three companies that
+specialize in invisibility?
+
+217
+00:10:59,576 --> 00:11:04,289
+This box is filled with napkins covered
+with notes detailing Peter's conviction
+
+218
+00:11:04,414 --> 00:11:08,293
+that genetically-modified cranberry fungus
+would become the next cotton.
+
+219
+00:11:08,418 --> 00:11:10,420
+- That... that one I remember.
+- Yes.
+
+220
+00:11:11,546 --> 00:11:12,964
+- Monica.
+- Mmm-hmm.
+
+221
+00:11:13,923 --> 00:11:15,550
+Peter Gregory is dead.
+
+222
+00:11:16,885 --> 00:11:18,511
+- Yes.
+- We need to seem competitive,
+
+223
+00:11:18,595 --> 00:11:20,013
+now more than ever,
+
+224
+00:11:20,096 --> 00:11:23,266
+to our investors as well
+as to the industry at large.
+
+225
+00:11:23,349 --> 00:11:24,350
+Well, I mean,
+
+226
+00:11:24,434 --> 00:11:28,396
+pied Piper is probably the hottest
+early investment in town right now,
+
+227
+00:11:28,479 --> 00:11:29,731
+and we have them.
+
+228
+00:11:29,814 --> 00:11:31,441
+Do we?
+
+229
+00:11:32,192 --> 00:11:35,570
+But why then are they speaking to other
+firms about investing in their series a?
+
+230
+00:11:35,653 --> 00:11:38,448
+No, no. I just told them
+to sit tight for a day or two
+
+231
+00:11:38,531 --> 00:11:39,741
+until we sorted things out.
+
+232
+00:11:39,824 --> 00:11:44,037
+It seems that that advanced
+a sense of uncertainty,
+
+233
+00:11:44,120 --> 00:11:46,331
+and now we're at risk
+of losing their round.
+
+234
+00:11:46,414 --> 00:11:48,833
+This could jeopardize the firm
+
+235
+00:11:48,917 --> 00:11:51,878
+and, by extension, your
+career here, Monica,
+
+236
+00:11:51,961 --> 00:11:53,421
+as an associate partner.
+
+237
+00:11:53,504 --> 00:11:56,216
+Well, I guess I was just kind of in shock.
+
+238
+00:11:56,299 --> 00:11:57,342
+Monica...
+
+239
+00:12:00,511 --> 00:12:02,305
+Peter Gregory is dead.
+
+240
+00:12:04,807 --> 00:12:07,185
+Yes. I know.
+
+241
+00:12:08,978 --> 00:12:10,188
+Erlich: This is great.
+
+242
+00:12:10,271 --> 00:12:12,732
+I mean, do you know how many times
+I've gone into these rooms
+
+243
+00:12:12,815 --> 00:12:15,777
+with nothing but a half
+of an ass in my hand?
+
+244
+00:12:15,860 --> 00:12:20,657
+We're walking in there with 3-foot cocks
+covered in Elvis dust.
+
+245
+00:12:21,824 --> 00:12:24,494
+- Really?
+- Richard Hendricks? They're ready for you.
+
+246
+00:12:25,328 --> 00:12:27,956
+- This is a fucking layup, guys.
+- Richard: Okay, let's do this.
+
+247
+00:12:29,624 --> 00:12:31,125
+Erlich: Not you, Jared.
+
+248
+00:12:31,834 --> 00:12:33,753
+Now, with proper funding,
+
+249
+00:12:33,836 --> 00:12:38,591
+we should be able to put together
+a functioning beta in time for ces
+
+250
+00:12:38,675 --> 00:12:43,054
+and compress nucleus
+out of the marketplace.
+
+251
+00:12:46,224 --> 00:12:47,809
+Yeah.
+
+252
+00:12:47,892 --> 00:12:48,935
+I don't know.
+
+253
+00:12:49,978 --> 00:12:51,437
+You don't... what?
+
+254
+00:12:52,063 --> 00:12:54,023
+It just doesn't seem worked out to me.
+
+255
+00:12:54,899 --> 00:12:59,362
+Well, I mean, it was worked out enough
+to win techcrunch disrupt.
+
+256
+00:12:59,445 --> 00:13:02,282
+Yes, and congratulations, you won 50 grand,
+
+257
+00:13:02,365 --> 00:13:05,785
+but you're asking us for 200 times that.
+
+258
+00:13:05,868 --> 00:13:10,665
+Richard, look, we all know
+about your amazing compression rate,
+
+259
+00:13:10,748 --> 00:13:12,875
+but let's not be naive here.
+
+260
+00:13:12,959 --> 00:13:16,045
+You can't expect to just
+throw money at an algorithm
+
+261
+00:13:16,129 --> 00:13:19,966
+and beat one of the largest
+tech companies in the world.
+
+262
+00:13:20,049 --> 00:13:21,676
+So why don't you rework this a little
+
+263
+00:13:21,759 --> 00:13:24,470
+and come back in with a little more?
+
+264
+00:13:24,554 --> 00:13:26,180
+Maybe next week?
+
+265
+00:13:28,141 --> 00:13:29,183
+And?
+
+266
+00:13:29,600 --> 00:13:31,686
+That was really weird.
+
+267
+00:13:31,769 --> 00:13:34,731
+I guess we don't have
+as much Elvis dust on us as I thought.
+
+268
+00:13:34,814 --> 00:13:37,483
+You see? This is why I
+wanted to go with Peter Gregory.
+
+269
+00:13:37,567 --> 00:13:38,609
+This is bullshit.
+
+270
+00:13:38,693 --> 00:13:42,322
+I mean, that guy throws this huge party for
+us and then acts like he doesn't even want us?
+
+271
+00:13:42,405 --> 00:13:43,906
+I mean, I fucking hate parties.
+
+272
+00:13:43,990 --> 00:13:45,926
+And then he says, "come back next week
+when you have more."
+
+273
+00:13:45,950 --> 00:13:48,661
+More? More than 5.2 on weissman?
+
+274
+00:13:48,745 --> 00:13:50,455
+No. No.
+
+275
+00:13:50,538 --> 00:13:53,708
+Fuck that guy. Fuck this place.
+Fuck this whole place.
+
+276
+00:13:54,250 --> 00:13:56,336
+- Watch me fuck this place.
+- No, wait! Wait, wait!
+
+277
+00:13:57,962 --> 00:14:01,341
+Hey. You remember when you told me
+to come back when I had more?
+
+278
+00:14:01,424 --> 00:14:03,009
+And then I said I would?
+
+279
+00:14:03,092 --> 00:14:06,679
+Well, I'm not going to. Ever.
+This doesn't count. Okay.
+
+280
+00:14:06,763 --> 00:14:09,349
+I'm covered in dust. I'm a 3-foot dick,
+
+281
+00:14:09,432 --> 00:14:11,976
+and I've got half an ass
+to go to some other company
+
+282
+00:14:12,060 --> 00:14:15,021
+who's never gonna put me on a jumbotron
+or throw balls at me.
+
+283
+00:14:18,524 --> 00:14:19,776
+Bye.
+
+284
+00:14:27,200 --> 00:14:29,869
+Are you feeling unwell?
+Do you need protein?
+
+285
+00:14:29,952 --> 00:14:31,329
+I don't know what happened.
+
+286
+00:14:31,412 --> 00:14:34,665
+Between Peter dying
+and raviga maybe being gone, I just...
+
+287
+00:14:34,749 --> 00:14:36,751
+I just wanna get funded
+and build pied Piper.
+
+288
+00:14:36,834 --> 00:14:38,211
+I hate this part.
+
+289
+00:14:38,961 --> 00:14:40,939
+Erlich: Well, if one thing is for sure...
+
+290
+00:14:40,963 --> 00:14:44,217
+If we're gonna get any traction,
+I need to step up my game.
+
+291
+00:14:44,300 --> 00:14:46,010
+It's an email from Ron laflamme.
+
+292
+00:14:47,303 --> 00:14:49,722
+"Just got a term sheet from stern Taylor.
+
+293
+00:14:49,806 --> 00:14:53,976
+"They offered $5 million
+at $25 million post-money valuation.
+
+294
+00:14:54,060 --> 00:14:55,311
+"More than I thought."
+
+295
+00:14:55,395 --> 00:14:56,896
+Shit. They were negging us.
+
+296
+00:14:56,979 --> 00:14:58,940
+- Negging?
+- Negging is going negative.
+
+297
+00:14:59,023 --> 00:15:02,443
+It's a manipulative sex strategy
+used by lonely chauvinists.
+
+298
+00:15:02,527 --> 00:15:03,796
+Erlich: See, everybody wants us.
+
+299
+00:15:03,820 --> 00:15:08,074
+But, by shitting all over us,
+they try and bring our price down.
+
+300
+00:15:08,157 --> 00:15:12,078
+But you shitting all over them
+counteracted their shitting all over us.
+
+301
+00:15:12,161 --> 00:15:15,415
+You negged a neg.
+Richard, this could be good.
+
+302
+00:15:15,498 --> 00:15:17,834
+- Where do we have next?
+- Ross loma capital.
+
+303
+00:15:17,917 --> 00:15:19,478
+Should I keep doing it?
+Should I keep negging?
+
+304
+00:15:19,502 --> 00:15:20,962
+No, no, I'll handle this.
+
+305
+00:15:21,045 --> 00:15:23,673
+If they want to negotiate
+using hostility and rudeness,
+
+306
+00:15:24,966 --> 00:15:26,676
+well, they picked the wrong guy.
+
+307
+00:15:27,510 --> 00:15:30,304
+Well, you see, our main concern
+
+308
+00:15:30,388 --> 00:15:33,683
+is how you're going to achieve
+escape velocity on your growth rate.
+
+309
+00:15:33,766 --> 00:15:35,351
+If critical mass...
+
+310
+00:15:36,853 --> 00:15:38,980
+I'm sorry. What's funny?
+
+311
+00:15:39,063 --> 00:15:41,232
+It's just that painting behind you.
+
+312
+00:15:41,315 --> 00:15:43,025
+It's awful.
+
+313
+00:15:43,109 --> 00:15:46,779
+It looks like harlequin kama-sutra
+done poorly.
+
+314
+00:15:47,405 --> 00:15:49,782
+So, I agree,
+
+315
+00:15:49,866 --> 00:15:51,701
+bad culture fit.
+
+316
+00:15:51,784 --> 00:15:53,619
+I think we all just move on.
+
+317
+00:15:53,703 --> 00:15:55,180
+Look, I didn't say
+anything about a culture fit.
+
+318
+00:15:55,204 --> 00:15:56,706
+No, I did.
+
+319
+00:15:57,331 --> 00:15:59,959
+Okay. Well,
+
+320
+00:16:00,042 --> 00:16:01,335
+thank you for meeting with us.
+
+321
+00:16:01,419 --> 00:16:03,296
+We have a bunch of these things to go to,
+
+322
+00:16:03,379 --> 00:16:06,090
+hopefully with more tasteful artwork.
+
+323
+00:16:06,174 --> 00:16:09,635
+And your logo looks like a sideways vagina.
+
+324
+00:16:09,719 --> 00:16:12,263
+I find that to be racist, don't you?
+
+325
+00:16:15,808 --> 00:16:16,976
+Okay, here's my concern...
+
+326
+00:16:17,059 --> 00:16:20,813
+Here's my concern.
+Who the hell picked out that shirt for you?
+
+327
+00:16:20,897 --> 00:16:22,023
+What?
+
+328
+00:16:23,065 --> 00:16:25,318
+Oh, I see. With the pants.
+
+329
+00:16:25,401 --> 00:16:28,070
+So I guess it's a whole thing.
+
+330
+00:16:28,154 --> 00:16:29,739
+My wife picked these out.
+
+331
+00:16:29,822 --> 00:16:31,157
+Then you married poorly.
+
+332
+00:16:31,449 --> 00:16:34,327
+Do you care about pied Piper?
+
+333
+00:16:34,410 --> 00:16:37,288
+Do I care about pied
+Piper? Well, of course.
+
+334
+00:16:37,371 --> 00:16:39,665
+Cause if you do, I'm not seeing it.
+
+335
+00:16:39,874 --> 00:16:44,629
+In fact, what I think I'm seeing
+is the human equivalent of a flaccid penis.
+
+336
+00:16:45,755 --> 00:16:48,382
+"Flak-sid." it's actually
+pronounced "flak-sid."
+
+337
+00:16:48,466 --> 00:16:49,884
+Not a lot of people know that.
+
+338
+00:16:49,967 --> 00:16:51,761
+Well, we are definitely interested,
+
+339
+00:16:51,844 --> 00:16:54,347
+but I think we need to...
+
+340
+00:16:54,430 --> 00:16:56,557
+I'm sorry. Is something wrong?
+
+341
+00:16:56,807 --> 00:16:59,519
+No, this is all wrong.
+
+342
+00:16:59,602 --> 00:17:01,896
+I am sensing a general lack of vision.
+
+343
+00:17:03,105 --> 00:17:04,690
+Your muffins smell like shit.
+
+344
+00:17:04,774 --> 00:17:06,442
+So do your ideas.
+
+345
+00:17:07,151 --> 00:17:10,029
+One of you is the least attractive person
+I've ever seen,
+
+346
+00:17:10,112 --> 00:17:11,989
+and I'm not gonna say who.
+
+347
+00:17:13,491 --> 00:17:15,868
+Should we leave or should you?
+
+348
+00:17:15,952 --> 00:17:19,330
+We just got offered eight at 40.
+
+349
+00:17:19,413 --> 00:17:20,957
+We're five for five, gentlemen.
+
+350
+00:17:21,040 --> 00:17:23,626
+And galveston capital fund
+and yountville ventures called.
+
+351
+00:17:23,709 --> 00:17:25,938
+They want to move their meetings up
+before everyone else.
+
+352
+00:17:25,962 --> 00:17:28,714
+Hey, let me try.
+I want to be rude at this next one.
+
+353
+00:17:28,798 --> 00:17:30,049
+Go for it.
+
+354
+00:17:30,132 --> 00:17:31,384
+So, with some proper funding,
+
+355
+00:17:31,467 --> 00:17:34,178
+we should be able to get
+a functioning beta in time for ces.
+
+356
+00:17:35,221 --> 00:17:37,515
+And if you don't fund us,
+
+357
+00:17:37,598 --> 00:17:39,725
+you're a fucking slut.
+
+358
+00:17:42,937 --> 00:17:44,146
+Oh...
+
+359
+00:17:44,230 --> 00:17:46,774
+What's that smell? Is that a fart?
+
+360
+00:17:47,775 --> 00:17:48,985
+Are you a farter?
+
+361
+00:17:49,986 --> 00:17:54,031
+Now, can I have a pastry?
+Or are you guys gonna eat 'em all?
+
+362
+00:17:55,408 --> 00:17:57,326
+'Cause you're gonna get fat.
+
+363
+00:17:59,829 --> 00:18:03,958
+It's not your fault, Richard. This is
+just something that can't be taught,
+
+364
+00:18:04,041 --> 00:18:07,545
+so leave the next one to me.
+I can feel a big one coming on.
+
+365
+00:18:07,628 --> 00:18:08,629
+What are you gonna do?
+
+366
+00:18:09,213 --> 00:18:11,340
+I'm not sure yet, but give me room.
+
+367
+00:18:11,424 --> 00:18:13,968
+There's something inside of me
+that has to come out,
+
+368
+00:18:14,051 --> 00:18:15,553
+and who am I to stop it?
+
+369
+00:18:18,014 --> 00:18:19,140
+His balls?
+
+370
+00:18:19,640 --> 00:18:21,392
+He put his balls on the table?
+
+371
+00:18:21,475 --> 00:18:23,603
+- Right on the table.
+- On purpose?
+
+372
+00:18:23,686 --> 00:18:26,188
+I don't see how it could be by accident.
+
+373
+00:18:26,272 --> 00:18:29,442
+Richard, I just got an email
+from the guys at midland-oak.
+
+374
+00:18:29,525 --> 00:18:31,861
+Apparently, there is a
+line, and I crossed it...
+
+375
+00:18:32,862 --> 00:18:36,782
+The line between $12 and $15 million!
+
+376
+00:18:37,033 --> 00:18:38,242
+Ba-bam!
+
+377
+00:18:38,326 --> 00:18:39,952
+Midland-oak's offerjust came in.
+
+378
+00:18:40,036 --> 00:18:44,457
+Gentlemen, we are valued at 75 million,
+fully diluted.
+
+379
+00:18:44,540 --> 00:18:45,708
+Are you shitting me?
+
+380
+00:18:45,791 --> 00:18:47,418
+Take a look at these term sheets.
+
+381
+00:18:47,501 --> 00:18:49,587
+There is a linear correlation
+
+382
+00:18:49,670 --> 00:18:51,339
+between how intolerable I was...
+
+383
+00:18:51,422 --> 00:18:53,142
+And the height of valuation.
+
+384
+00:18:53,716 --> 00:18:56,052
+Hey, you guys. Um...
+
+385
+00:18:56,135 --> 00:18:59,138
+This is Laurie bream,
+the new managing partner at raviga.
+
+386
+00:18:59,221 --> 00:19:02,475
+Oh, uh... hi. I'm Richard Hendricks.
+
+387
+00:19:02,558 --> 00:19:05,394
+Yes. I recognize you from your photograph.
+
+388
+00:19:05,478 --> 00:19:08,522
+- It's very nice to meet you in person.
+- Yeah.
+
+389
+00:19:08,606 --> 00:19:09,690
+Okay, so we did that.
+
+390
+00:19:09,774 --> 00:19:12,026
+Gentlemen, I am aware
+of the degree of interest
+
+391
+00:19:12,109 --> 00:19:13,295
+you are receiving from other firms.
+
+392
+00:19:13,319 --> 00:19:17,448
+I am aware that participation in your series
+a will require a very competitive offer,
+
+393
+00:19:17,531 --> 00:19:20,451
+but for numerous reasons,
+I believe it to be the prudent decision.
+
+394
+00:19:20,993 --> 00:19:25,122
+Now I am presenting you with this.
+
+395
+00:19:25,748 --> 00:19:29,794
+$20 million at $100 million valuation?
+
+396
+00:19:29,877 --> 00:19:31,671
+I don't... uh...
+
+397
+00:19:31,754 --> 00:19:34,340
+This is way more than any other offer.
+
+398
+00:19:34,423 --> 00:19:35,508
+Correct.
+
+399
+00:19:36,759 --> 00:19:38,010
+That is very much intentional.
+
+400
+00:19:38,386 --> 00:19:41,180
+So, I believe that satisfies
+your requirements?
+
+401
+00:19:41,263 --> 00:19:43,683
+Monica will arrange a time
+to formalize the details.
+
+402
+00:19:43,766 --> 00:19:45,309
+Thank you. Have a good day.
+
+403
+00:19:46,143 --> 00:19:47,395
+Uh, thank you.
+
+404
+00:19:48,938 --> 00:19:49,939
+Yes.
+
+405
+00:19:52,983 --> 00:19:55,778
+Congratulations, guys. I am so glad...
+
+406
+00:19:56,946 --> 00:19:59,657
+Oh, shit! She's my ride home.
+I'll call you, Richard.
+
+407
+00:19:59,740 --> 00:20:01,200
+Uh, yeah, okay.
+
+408
+00:20:01,784 --> 00:20:04,328
+- Thanks for stopping...
+- Monica: Wait! Laurie, hold on!
+
+409
+00:20:06,122 --> 00:20:08,124
+Guys, I think we're funded.
+
+410
+00:20:08,207 --> 00:20:10,543
+- Yes! Richie!
+- Yeah!
+
+411
+00:20:14,672 --> 00:20:17,693
+Erlich: So, I push my dick to the side,
+unbutton the bottom two buttons and...
+
+412
+00:20:17,717 --> 00:20:18,718
+Bam!
+
+413
+00:20:20,302 --> 00:20:21,429
+Ah!
+
+414
+00:20:21,512 --> 00:20:23,472
+- What are you doing?
+- Shit. Sorry, sorry. Sorry.
+
+415
+00:20:24,682 --> 00:20:26,851
+Meet me on the side of the house.
+
+416
+00:20:26,934 --> 00:20:28,894
+- I... okay.
+- Okay. Okay. Go.
+
+417
+00:20:30,312 --> 00:20:32,231
+- Hey.
+- Hey, what's up?
+
+418
+00:20:32,314 --> 00:20:35,735
+If anyone finds out that I came back here,
+I will get fired, okay?
+
+419
+00:20:35,818 --> 00:20:37,486
+Okay.
+
+420
+00:20:37,570 --> 00:20:40,406
+- Don't take this deal.
+- What?
+
+421
+00:20:40,489 --> 00:20:43,033
+You are worth half that at best.
+
+422
+00:20:43,534 --> 00:20:45,578
+Oh, wow. Thanks for the compliment.
+
+423
+00:20:45,661 --> 00:20:48,122
+No. The credit to you guys.
+You negotiated your asses off,
+
+424
+00:20:48,205 --> 00:20:50,541
+but this is a classic runaway valuation.
+
+425
+00:20:51,417 --> 00:20:53,043
+What's wrong with that?
+
+426
+00:20:53,127 --> 00:20:58,215
+Pied Piper will be tied to this crazy valuation
+that you will never be able to live up to.
+
+427
+00:20:58,841 --> 00:21:02,136
+If you don't keep increasing
+in value in the next round,
+
+428
+00:21:02,219 --> 00:21:04,513
+if you have a down round, you are fucked.
+
+429
+00:21:04,597 --> 00:21:07,600
+It is the kiss of death for a young ceo.
+
+430
+00:21:07,683 --> 00:21:11,353
+You want to start with a realistic
+valuation and grow at a reasonable pace.
+
+431
+00:21:11,437 --> 00:21:15,941
+Okay, well, if it's such a shitty deal,
+then why did your boss offer it to us?
+
+432
+00:21:16,025 --> 00:21:18,068
+Because she's competitive as hell.
+
+433
+00:21:18,152 --> 00:21:20,946
+She needs pied Piper
+to keep raviga afloat, Richard.
+
+434
+00:21:21,030 --> 00:21:22,698
+- Okay.
+- Look, I respect Laurie,
+
+435
+00:21:23,115 --> 00:21:25,785
+but this is the exact type of thing
+Peter never did.
+
+436
+00:21:27,077 --> 00:21:29,121
+Richard, come on. I
+own shares in pied Piper.
+
+437
+00:21:29,205 --> 00:21:31,290
+If this high evaluation
+was good in the long-term,
+
+438
+00:21:31,373 --> 00:21:33,250
+would I be standing here, risking my job?
+
+439
+00:21:34,460 --> 00:21:35,544
+Don't take our offer.
+
+440
+00:21:35,628 --> 00:21:38,005
+Maybe go with the lowest offer you got.
+
+441
+00:21:38,088 --> 00:21:39,799
+Even that might be too high.
+
+442
+00:21:39,882 --> 00:21:42,802
+Again,
+thank you for the compliment.
+
+443
+00:21:43,594 --> 00:21:47,932
+Also, I didn't see anything in there.
+
+444
+00:21:48,015 --> 00:21:50,017
+No. Yeah, thank you.
+
+445
+00:21:50,100 --> 00:21:52,500
+I was gonna say if you had,
+you'd have to show me yours, too.
+
+446
+00:21:55,147 --> 00:21:56,774
+Um...
+
+447
+00:21:56,857 --> 00:21:59,902
+- Okay.
+- Okay. Thanks for the...
+
+448
+00:21:59,985 --> 00:22:00,986
+Okay.
+
+449
+00:22:15,960 --> 00:22:17,378
+Yeah, sorry about that party.
+
+450
+00:22:18,254 --> 00:22:19,964
+I was in kind of a bad way that night.
+
+451
+00:22:20,047 --> 00:22:23,425
+And truth is, I'm actually doing okay.
+
+452
+00:22:23,884 --> 00:22:26,178
+- Good. That's great.
+- Yeah.
+
+453
+00:22:26,262 --> 00:22:29,139
+I mean, I could run the scenarios
+about what happened all I want,
+
+454
+00:22:29,598 --> 00:22:33,477
+But I finallyjust realized
+there'sjust nothing I can do, you know?
+
+455
+00:22:33,561 --> 00:22:34,854
+Yeah.
+
+456
+00:22:34,937 --> 00:22:37,690
+So, I'm at peace with it all.
+
+457
+00:22:37,773 --> 00:22:40,067
+I was thinking, actually, um,
+
+458
+00:22:40,150 --> 00:22:42,778
+what if you had asked for less?
+
+459
+00:22:44,238 --> 00:22:45,281
+What?
+
+460
+00:22:45,406 --> 00:22:47,449
+Well, what if you could've gone to someone
+
+461
+00:22:47,533 --> 00:22:50,119
+and asked for less than
+what they offered that first round?
+
+462
+00:22:50,452 --> 00:22:52,580
+Like, you mean, negotiating them down?
+
+463
+00:22:53,247 --> 00:22:55,040
+- Yeah.
+- Can you even do that?
+
+464
+00:22:55,124 --> 00:22:58,085
+- Well, yeah. I mean, why not?
+- Yeah, but...
+
+465
+00:22:59,795 --> 00:23:03,215
+I mean, I guess, technically, I could have.
+
+466
+00:23:03,299 --> 00:23:04,300
+Mmm...
+
+467
+00:23:04,425 --> 00:23:05,634
+Huh.
+
+468
+00:23:05,718 --> 00:23:09,471
+Yeah, I suppose you could argue
+that it might've been easier
+
+469
+00:23:09,555 --> 00:23:13,267
+to hit more realistic benchmarks
+
+470
+00:23:13,642 --> 00:23:14,882
+and reach cash flow break-even.
+
+471
+00:23:14,935 --> 00:23:16,270
+Yeah, that's what I'm saying.
+
+472
+00:23:17,271 --> 00:23:21,775
+And then,
+We wouldn't have faced that down round.
+
+473
+00:23:23,569 --> 00:23:24,987
+And...
+
+474
+00:23:26,655 --> 00:23:28,824
+We wouldn't have
+had to settle for acquisition.
+
+475
+00:23:30,492 --> 00:23:31,744
+All that money
+
+476
+00:23:32,703 --> 00:23:33,746
+fucked me.
+
+477
+00:23:33,829 --> 00:23:35,873
+Wow. I mean, I don't know about...
+
+478
+00:23:35,956 --> 00:23:37,583
+- Shit!
+- Maybe.
+
+479
+00:23:37,666 --> 00:23:41,712
+- Look... hey...
+- No, no, no. We could've done a legit series b.
+
+480
+00:23:41,795 --> 00:23:43,422
+Right? I'd still be ceo.
+
+481
+00:23:43,505 --> 00:23:46,008
+I'd have my job,
+
+482
+00:23:46,091 --> 00:23:47,426
+my kick-ass house.
+
+483
+00:23:47,509 --> 00:23:49,637
+I'd probably still have my girlfriend...
+
+484
+00:23:52,056 --> 00:23:54,558
+- Fuck!
+- Okay.
+
+485
+00:23:54,642 --> 00:23:57,686
+Why the fuck didn't anyone tell me
+I could take less?
+
+486
+00:23:57,853 --> 00:23:59,855
+I don't know. I don't know.
+
+487
+00:24:00,981 --> 00:24:02,107
+Ideas come up and then...
+
+488
+00:24:02,191 --> 00:24:03,609
+Fuck!
+
+489
+00:24:03,692 --> 00:24:06,195
+I'll take a cab, so I'll leave you to it.
+
+490
+00:24:06,278 --> 00:24:07,529
+Thanks for meeting me here.
+
+491
+00:24:08,155 --> 00:24:09,156
+Fuck!
+
+492
+00:24:16,538 --> 00:24:17,790
+Richard.
+
+493
+00:24:18,874 --> 00:24:21,710
+Richard, I'm Laurie bream.
+I was inside your home yesterday.
+
+494
+00:24:21,794 --> 00:24:23,712
+Have you made a decision
+regarding our proposal?
+
+495
+00:24:23,796 --> 00:24:29,051
+Yeah, yeah, we'll go with you guys,
+but we need to renegotiate the terms.
+
+496
+00:24:29,134 --> 00:24:32,179
+I'm afraid that's untenable.
+We're offering as much money as we can.
+
+497
+00:24:32,262 --> 00:24:35,432
+Uh, no, no, we wanna go lower.
+We want less... a lot less, actually.
+
+498
+00:24:36,392 --> 00:24:37,392
+We'll go with raviga
+
+499
+00:24:37,434 --> 00:24:41,271
+if you guys do $10 million
+at a $50 million valuation,
+
+500
+00:24:41,355 --> 00:24:42,773
+not 20 at 100.
+
+501
+00:24:43,315 --> 00:24:44,858
+I think this is more reasonable,
+
+502
+00:24:44,942 --> 00:24:48,696
+and it's my final offer.
+Take it or leave it.
+
+503
+00:24:48,779 --> 00:24:49,989
+I was not anticipating this,
+
+504
+00:24:50,072 --> 00:24:52,908
+but I think it will be
+workable from our end.
+
+505
+00:24:54,743 --> 00:24:57,830
+And one more thing,
+Monica votes for raviga's board seat.
+
+506
+00:24:59,289 --> 00:25:01,500
+Certainly that seems unimportant.
+
+507
+00:25:02,167 --> 00:25:05,447
+I will telephone your lawyer tomorrow, and
+we can speak about the relevant details.
+
+508
+00:25:05,504 --> 00:25:06,714
+Good.
+
+509
+00:25:15,264 --> 00:25:19,059
+Peter was one of the few
+who genuinely took action
+
+510
+00:25:19,143 --> 00:25:22,187
+to use technology to help humanity thrive.
+
+511
+00:25:22,271 --> 00:25:24,189
+But how exactly can we quantify
+
+512
+00:25:24,273 --> 00:25:26,775
+another human's contributions to mankind?
+
+513
+00:25:28,277 --> 00:25:30,738
+Let's break it down into
+its three component elements.
+
+514
+00:25:36,035 --> 00:25:40,748
+I met Peter when he was thinking about
+investing in my company, zettasphere,
+
+515
+00:25:40,831 --> 00:25:42,458
+although I think he was hesitant
+
+516
+00:25:42,541 --> 00:25:45,502
+after his disappointing
+initial return from Snapchat.
+
+517
+00:25:45,586 --> 00:25:50,007
+He came on board, anyway,
+and every month we would meet.
+
+518
+00:25:50,257 --> 00:25:51,967
+Peter was always an honest man,
+
+519
+00:25:52,217 --> 00:25:54,720
+and I know that
+if Peter were here with us today,
+
+520
+00:25:54,803 --> 00:25:57,139
+he would say that
+he was not disappointed in Snapchat.
+
+521
+00:25:57,639 --> 00:26:01,185
+And he would forgive you, lev,
+for your misunderstanding.
+
+522
+00:26:01,268 --> 00:26:03,520
+That's just the kind of guy that Peter was,
+
+523
+00:26:03,604 --> 00:26:06,065
+warm, generous,
+
+524
+00:26:06,148 --> 00:26:09,026
+and not disappointed in Snapchat.
+
+525
+00:26:15,741 --> 00:26:19,161
+I'll never forget the
+first time I met Peter.
+
+526
+00:26:19,244 --> 00:26:22,498
+It was in his mom's garage, where
+we started our first business together
+
+527
+00:26:22,581 --> 00:26:25,584
+manufacturing vga graphics cards
+for IBM clones.
+
+528
+00:26:26,877 --> 00:26:28,003
+We never looked back.
+
+529
+00:26:28,087 --> 00:26:29,797
+And you know, the last time I saw him,
+
+530
+00:26:29,880 --> 00:26:33,175
+it was at a restaurant,
+not a half-mile away from that same garage.
+
+531
+00:26:33,258 --> 00:26:34,802
+We talked, as old friends do,
+
+532
+00:26:34,885 --> 00:26:37,513
+he asked me about Jackson hole,
+
+533
+00:26:37,596 --> 00:26:40,682
+I asked him about pilates.
+
+534
+00:26:41,183 --> 00:26:43,852
+And yet, something was wrong.
+
+535
+00:26:44,853 --> 00:26:48,857
+Underneath it all,
+there was an unmistakable tension.
+
+536
+00:26:49,525 --> 00:26:51,527
+A tension I will forever regret.
+
+537
+00:26:52,027 --> 00:26:54,488
+It's no secret Peter and
+I had our differences.
+
+538
+00:26:55,280 --> 00:26:57,282
+We let business get between us.
+
+539
+00:26:57,366 --> 00:26:59,076
+Now?
+
+540
+00:26:59,159 --> 00:27:01,453
+Now I wish I could say I'm sorry for that.
+
+541
+00:27:01,537 --> 00:27:03,705
+Now it's too late. He's gone.
+
+542
+00:27:04,498 --> 00:27:08,085
+And it makes me realize
+the importance of forgiveness,
+
+543
+00:27:08,168 --> 00:27:11,672
+of doing things with love
+and compassion in your heart,
+
+544
+00:27:11,755 --> 00:27:13,882
+and not vengeance and competition.
+
+545
+00:27:15,175 --> 00:27:18,303
+I mean, we owe that
+to each other, don't we?
+
+546
+00:27:18,387 --> 00:27:19,429
+And to him?
+
+547
+00:27:20,264 --> 00:27:23,475
+After all, this valley is the place
+Peter himself helped build.
+
+548
+00:27:23,934 --> 00:27:26,854
+Where we come together as dreamers,
+
+549
+00:27:26,937 --> 00:27:28,230
+all of us,
+
+550
+00:27:28,313 --> 00:27:31,024
+to truly make the world a better place.
+
+551
+00:27:32,359 --> 00:27:35,320
+This is Florence during the renaissance.
+
+552
+00:27:35,404 --> 00:27:36,989
+This is Camelot.
+
+553
+00:27:37,531 --> 00:27:41,702
+This is the place Peter himself called
+"the cradle of innovation."
+
+554
+00:27:45,747 --> 00:27:47,416
+I will miss my friend.
+
+555
+00:27:50,210 --> 00:27:51,837
+Bye, Pete.
+
+556
+00:27:55,007 --> 00:27:56,967
+Maybe he is a human, after all.
+
+557
+00:28:00,762 --> 00:28:02,264
+I'm sorry.
+
+558
+00:28:02,639 --> 00:28:04,141
+It's from Ron laflamme.
+
+559
+00:28:05,559 --> 00:28:07,311
+"Gavin belson is suing you.
+
+560
+00:28:07,394 --> 00:28:09,771
+"Filed claims today that
+you stole pied Piper from hooli."
+
+561
+00:28:10,564 --> 00:28:11,815
+Shit.
+
+562
+00:28:19,281 --> 00:28:21,241
+Gavin belson is suing us.
+
